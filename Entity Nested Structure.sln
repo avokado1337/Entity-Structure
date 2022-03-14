@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity Nested Structure", "Entity Nested Structure.csproj", "{AE735719-DE19-449E-8C5F-4BE1D3A4600E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE735719-DE19-449E-8C5F-4BE1D3A4600E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE735719-DE19-449E-8C5F-4BE1D3A4600E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE735719-DE19-449E-8C5F-4BE1D3A4600E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE735719-DE19-449E-8C5F-4BE1D3A4600E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E10BDB28-E672-44C7-95C6-2081253E7A62}
+	EndGlobalSection
+EndGlobal

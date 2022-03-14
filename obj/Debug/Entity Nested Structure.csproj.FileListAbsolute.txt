@@ -1,0 +1,65 @@
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\Entity Nested Structure.dll.config
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\Entity Nested Structure.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\Entity Nested Structure.pdb
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\csc.exe
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\csc.exe.config
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\csc.rsp
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\csi.exe
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\csi.rsp
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\System.AppContext.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\vbc.exe
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\vbc.exe.config
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\vbc.rsp
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\VBCSCompiler.exe
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\Antlr3.Runtime.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\Newtonsoft.Json.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\System.Web.Helpers.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\System.Web.Mvc.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\System.Web.Optimization.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\System.Web.Razor.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\System.Web.WebPages.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\System.Web.WebPages.Razor.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\WebGrease.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\System.Web.Helpers.xml
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\System.Web.Mvc.xml
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\System.Web.Optimization.xml
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\System.Web.Razor.xml
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\System.Web.WebPages.xml
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\System.Web.WebPages.Razor.xml
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\Newtonsoft.Json.xml
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\Antlr3.Runtime.pdb
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\ru\System.Web.Razor.resources.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\obj\Debug\Entity Nested Structure.csproj.AssemblyReference.cache
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\obj\Debug\Entity Nested Structure.csproj.CoreCompileInputs.cache
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\obj\Debug\Entity Nested Structure.csproj.CopyComplete
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\obj\Debug\Entity Nested Structure.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\obj\Debug\Entity Nested Structure.pdb
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\EntityFramework.dll
+C:\Users\sultan.sarazbanov\Desktop\Entity Nested Structure\bin\EntityFramework.xml
