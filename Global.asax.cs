@@ -1,5 +1,8 @@
+using Entity_Nested_Structure.Data;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -16,6 +19,10 @@ namespace Entity_Nested_Structure
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            SqlConnection.ClearAllPools();
+            Database.SetInitializer(new EntityDbInitializer());
+            EntityContext db = new EntityContext();
+            db.Database.Initialize(true);
         }
     }
 }

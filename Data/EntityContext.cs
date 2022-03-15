@@ -17,5 +17,8 @@ namespace Entity_Nested_Structure.Data
         public EntityContext() : base("ConnectionString") { }
 
         public DbSet<Entity> Entities { get; set; }
+
+      
     }
+
 }

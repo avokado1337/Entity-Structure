@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Entity_Nested_Structure.Data;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,23 +9,12 @@ namespace Entity_Nested_Structure.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly EntityContext db = new EntityContext();
         public ActionResult Index()
         {
-            return View();
-        }
+            var result = db.Entities.ToList();
 
-        public ActionResult About()
-        {
-            ViewBag.Message = "Your application description page.";
-
-            return View();
-        }
-
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Your contact page.";
-
-            return View();
+            return View(result);
         }
     }
 }
