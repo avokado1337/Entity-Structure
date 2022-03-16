@@ -16,5 +16,12 @@ namespace Entity_Nested_Structure.Controllers
 
             return View(result);
         }
+
+        public ActionResult Structure()
+        {
+            var result = db.Entities.ToList();
+
+            return View(result);
+        }
     }
 }

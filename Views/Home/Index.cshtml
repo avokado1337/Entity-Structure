@@ -42,3 +42,22 @@
 </tr>
     }
     </table>
+
+
+@foreach (var item in Model)
+            {
+                if (item.ParentId == null)
+                {
+                    <p class="super-parent">
+                        @Html.DisplayFor(itemModel => item.Name)
+                        <br />
+                    </p>
+                }
+                else if (item.ParentId == 2)
+                {
+                    <p class="children">
+                        @Html.DisplayFor(itemModel => item.Name)
+                        <br />
+                    </p>
+                }
+            }

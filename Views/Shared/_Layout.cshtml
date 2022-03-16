@@ -1,10 +1,11 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewBag.Title - приложение ASP.NET</title>
+    <link rel="stylesheet" href="~/Content/Site.css">
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
 </head>
@@ -18,13 +19,27 @@
                     <span class="icon-bar"></span>
                 </button>
                 @Html.ActionLink("Entity Nested Structure", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                @Html.ActionLink("Structure", "Structure", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                <p role="toolbar" aria-label="Node tools" aria-hidden="true" class="toolbar">
+                    <button type="button" data-js="promoteSibling">&laquo; Move left</button>
+                    <button type="button" data-js="demoteSibling">Move right &raquo;</button>
+                    <button type="button" data-js="addChild">+ Add new</button>
+                    <button type="button" data-js="deleteNode">
+                        &times; Delete
+                        <ins role="alert" aria-hidden="true" class="confirm" aria-label="Please confirm deletion">Are you sure? (press again to continue)</ins>
+                        <ins role="alert" aria-hidden="true" class="root" aria-label="You can't delete root">You can't delete the root node</ins>
+                    </button>
+                    <button type="button" data-js="editName">✎ Edit name</button>
+                </p>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                 </ul>
             </div>
+            
         </div>
     </div>
+    
     <div class="container body-content">
         @RenderBody()
     </div>
@@ -32,5 +47,7 @@
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
     @RenderSection("scripts", required: false)
+    <script src="~/Scripts/scripts.js"></script>
+
 </body>
 </html>
